@@ -12,15 +12,15 @@ const MainContainer = styled.div`
 const Headline = styled.h2`
     text-align: center;
     font-size: 3rem;
-    margin:8rem 0 2rem 0;
+    margin:10rem 0 2rem 0;
 `
 const PodDate = styled.h3`
     text-align: center;
-    font-size: 2rem;
+    font-size: 5rem;
 `
 const Exp = styled.p`
     text-align: justify;
-    font-size: 1.2rem
+    font-size: 2rem
 `
 
 export default function ApodCard(props) {
